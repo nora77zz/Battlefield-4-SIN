@@ -1,6 +1,8 @@
 # BF4 Stats Intelligence Network
 
-![BF4 Stats](https://raw.githubusercontent.com/nora77zz/Battlefield-4-SIN/main/web/public/bf4-icon.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nora77zz/Battlefield-4-SIN/main/web/public/bf4-icon.svg" width="200" alt="BF4 Stats">
+</p>
 
 **🌐 Live Demo:** [https://battlefield4-sin.onrender.com/](https://battlefield4-sin.onrender.com/)
 
